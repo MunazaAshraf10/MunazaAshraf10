@@ -101,30 +101,23 @@ Currently interested in efficient multimodal systems, model compression, knowled
 
 ---
 
-## 📊 GitHub
+## 📊 GitHub Activity
 
 <p align="center">
   <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=MunazaAshraf10&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github"
-  />
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MunazaAshraf10&layout=compact&hide_border=true&theme=github_dark&langs_count=8"
-  />
-</p>
-
-<p align="center">
-  <img
-    width="70%"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=MunazaAshraf10&theme=github-dark-blue&hide_border=true"
-  />
-</p>
-
-<p align="center">
-  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MunazaAshraf10&theme=github_dark"
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MunazaAshraf10&theme=github-compact&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MunazaAshraf10&theme=github_dark"
+    height="170"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=MunazaAshraf10&theme=github-dark-blue&hide_border=true"
+    height="170"
   />
 </p>
 
