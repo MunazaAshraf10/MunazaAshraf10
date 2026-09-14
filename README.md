@@ -110,14 +110,20 @@ Currently interested in efficient multimodal systems, model compression, knowled
   />
 </p>
 
+### ⚡ Technical Strengths
+
+<p align="center">
+  <img src="https://img.shields.io/badge/ML_Systems-Production_Inference-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Multimodal_AI-LLM_%7C_VLM_%7C_Diffusion-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GPU_Optimization-CUDA_%7C_FlashAttention-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/Training-LoRA_%7C_QLoRA_%7C_FSDP-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Distributed_Systems-Multi_GPU_%7C_Inference-334155?style=for-the-badge" />
+</p>
+
 <p align="center">
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MunazaAshraf10&theme=github_dark"
-    height="170"
-  />
-  <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=MunazaAshraf10&theme=github-dark-blue&hide_border=true"
-    height="170"
+    height="180"
   />
 </p>
 
